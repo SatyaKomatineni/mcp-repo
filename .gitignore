@@ -1,0 +1,17 @@
+# ignore ms office 365 temp files
+*.tmp
+~$*
+*.pyc
+*.pyo
+**/.env
+__pycache__/
+venv/
+env/
+.venv/
+.idea/
+.vscode/
+*.swp
+*.log
+.DS_Store
+*sqlite3
+Thumbs.db
