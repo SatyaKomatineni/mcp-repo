@@ -1,0 +1,10 @@
+Hello I need help with Anthropic's Model Context Protocol.
+
+Here is the full text URL of that spec with examples, sample code etc, 
+..and if you can read and keep in your back pocket the rest of the questions may make sense.
+
+Here is the URL:
+
+https://modelcontextprotocol.io/llms-full.txt
+
+Thanks
