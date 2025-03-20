@@ -9,6 +9,26 @@ Primary documentation, or the official documentation website is:
 [Model Context Protocol Website](https://modelcontextprotocol.io/introduction)
 
 <!-- ********************* -->
+# Anthropic's take on MCP
+<!-- ********************* -->
+
+[This is available at: https://www.anthropic.com/news/model-context-protocol](https://www.anthropic.com/news/model-context-protocol)
+
+Here are 3 key URLs this page speaks of
+
+1. [The Model Context Protocol specification and SDKs](https://github.com/modelcontextprotocol) - github site for spec and the SDKs. There are a few samples here to get started.
+2. [Local MCP server support in the Claude Desktop apps](https://claude.ai/download) - Download Claude desktop.
+3. [An open-source repository of MCP servers](https://claude.ai/download) - Same github repo, but a set of prebuilt servers.
+
+A key take away message from here is: 
+
+> Claude 3.5 Sonnet is adept at quickly building MCP server implementations, making it easy for organizations and individuals to rapidly connect their most important datasets with a range of AI-powered tools. To help developers start exploring, we’re sharing pre-built MCP servers for popular enterprise systems like Google Drive, Slack, GitHub, Git, Postgres, and Puppeteer.
+> 
+> ...
+> 
+> Instead of maintaining separate connectors for each data source, developers can now build against a standard protocol. As the ecosystem matures, AI systems will maintain context as they move between different tools and datasets, replacing today's fragmented integrations with a more sustainable architecture.
+
+<!-- ********************* -->
 # Key Components of MCP
 <!-- ********************* -->
 
